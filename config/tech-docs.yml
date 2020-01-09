@@ -1,25 +1,23 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://www.identity-providers.verify.service.gov.uk
+host: 
 
 # GOV.UK logo set to false until deployed to .service.gov.uk domain
 show_govuk_logo: true
 
 # Header-related options
-service_name: Verify
-service_link: https://www.verify.service.gov.uk
+service_name:
+service_link: https://verify-participants-joining.herokuapp.com
 ## phase of your project, for example ALPHA, BETA
 # phase: TESTING PHASE
 
 # Links to show on right-hand-side of header
 header_links:
-  About: https://www.verify.service.gov.uk
+  About: https://verify-participants-joining.herokuapp.com
 # Connect: https://www.verify.service.gov.uk/connect # Does not apply to IDPs
 # Documentation: https://www.docs.verify.service.gov.uk # Does not apply to IDPs
-  Support: https://www.verify.service.gov.uk/support
 
 # Links to show in the page footer
 footer_links:
-  Accessibility: /accessibility-statement
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
@@ -45,4 +43,4 @@ max_toc_heading_level: 3
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: alphagov/verify-idp-guidance
+github_repo: alphagov/trust-framework-tech-docs

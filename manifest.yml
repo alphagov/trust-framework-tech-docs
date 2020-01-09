@@ -1,7 +1,5 @@
 ---
 applications:
-- name: verify-idp-guidance
-  memory: 64M
+- name: trust-framework-tech-docs
+  memory: 256M
   instances: 2
-  path: ./build
-  buildpack: staticfile_buildpack

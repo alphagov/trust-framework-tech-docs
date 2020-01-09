@@ -1,3 +1,5 @@
+ruby '~> 2.6.2p47'
+
 # If you do not have OpenSSL installed, change
 # the following line to use 'http://'
 source 'https://rubygems.org'
