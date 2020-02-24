@@ -4,9 +4,11 @@
 	 viewBox="0 0 200 72" style="enable-background:new 0 0 200 72;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#FFFFFF;}
-	.st2{font-family:'Helvetica-Bold';}
-	.st3{font-size:13.5px;}
+	.st1{font-family:'Helvetica-Bold';}
+	.st2{font-size:13.5px;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'HelveticaNeue-Bold';}
+	.st5{font-size:20px;}
 </style>
 <g>
 	<path d="M188.3,4v64H11.7V4H188.3 M192.8,0H7.2v72h185.6V0L192.8,0z"/>
@@ -16,7 +18,7 @@
 </g>
 <rect x="17" y="53.2" class="st0" width="166" height="17.5"/>
 <rect x="5.9" y="53.2" class="st0" width="188.2" height="16"/>
-<text transform="matrix(1 0 0 1 9.6201 62.9064)" class="st1 st2 st3">APPROPRIATLY CERTIFIED</text>
 <rect x="21" y="19.3" class="st0" width="158" height="17.7"/>
-<text transform="matrix(1 0 0 1 30.2393 28.9992)" class="st2 st3">UK identity standards</text>
+<text transform="matrix(1 0 0 1 30.2393 28.9992)" class="st1 st2">UK identity standards</text>
+<text transform="matrix(1 0 0 1 49.2499 65.4651)" class="st3 st4 st5">CERTIFIED</text>
 </svg>
